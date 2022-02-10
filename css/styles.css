@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*footer*/
+
+footer{
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.social{
+    width: 50px;
+    height: auto;
+}
+
+/*index*/
+
+/*faq*/
+
+.containerFAQ{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/*contacto*/
+
+.contacto_main{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+/*ropa*/
+
+.containerRopa{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-style: outset;
+    border-width: 2px;
+    border-color: rgb(141, 141, 141);
+}
+
+.productsList{
+    overflow: auto;
+}
+
+.ropaProdcut{
+    margin-top: 20px;
+}
+
+/*tiendas*/
+
+.tiendas__main{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
