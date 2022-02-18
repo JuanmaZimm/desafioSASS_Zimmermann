@@ -3,4 +3,11 @@
 $colores:(
     fuchsia100:#EF5DA8,
     fuchsia60:#FCDDEC
-)
+);
+
+//Mixins
+@mixin sizes($ancho, $alto){
+    height:$alto;
+    width:$ancho;
+}
+
