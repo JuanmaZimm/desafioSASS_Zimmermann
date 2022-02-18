@@ -1,10 +1,12 @@
 /* footer */
 
+@import "variables";
+
 footer{
     margin-top: 25px;
     padding-top: 25px;
     padding-bottom: 20px;
-    background: $fuchsia100;
+    background:map-get($colores , fuchsia100 );
 
     .social{
         width: 50px;
